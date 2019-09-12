@@ -1,2 +1,4 @@
-include ':app', ':base', ':net'
-rootProject.name='android'
+rootProject.name = 'android'
+include ':app'
+include ':base'
+include ':net'
